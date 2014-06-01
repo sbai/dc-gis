@@ -31,6 +31,8 @@ shopt -s nullglob
 rootdir=`pwd`
 
 # Extract all zip files.
+echo "Extracting quadrant data..."
+convertall "quadrants"
 echo "Extracting census tract data..."
 convertall "census-tracts"
 echo "Extracting census block data..."

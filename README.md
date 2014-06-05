@@ -1,27 +1,27 @@
 dc-gis
 ======
 
-GIS data for Washington, DC.
+GIS data for Washington, DC in web-friendly GeoJSON format. Converted from ESRI shapefiles available at [data.dc.gov](http://data.dc.gov/Main_DataCatalog.aspx).
 
-Census blocks:
+## Census blocks
 - 2000
 - 2010
 
-Census tracts:
+## Census tracts
 - 1990
 - 2000
 - 2010
 
-Quadrants:
+## Quadrants
 - 2002
 
-Voting precincts:
+## Voting precincts
 - 1990
 - 2002
 - 2008
 - 2012
 
-Wards:
+## Wards
 - 1990
 - 2002
 - 2012
